@@ -1,0 +1,28 @@
+@media screen and (min-width: 992px) and (max-width: 1170px) {
+	.background-container {
+		background-image: url(../img/man-2.jpg);
+		height: 70vh;
+	}
+
+	.background-container h2 {
+		top: 15%;
+		left: 57%;
+	}
+
+}
+@media screen and (max-width: 992px) {
+	.background-container {
+		height: 50vh;
+		text-align: center;
+	}
+	.background-container h2 {
+		width: 100%s;
+		color: #000;
+		transform: translate(-50%, -50%);
+		left: 50%;
+		top: 125%;
+	}
+}
+.background_container {
+	
+}
